@@ -14,11 +14,11 @@ function Navbar() {
                 <div className="col-md-7 navbar-list" style={{}}>
                     <ul className="d-flex justify-content-around ">
                         <li><a href="/">Home</a></li>
-                        <li><a href="/about">About</a></li>
+                        <li><a href="/about">About Us</a></li>
                         <li><a href="/service">Services</a></li>
-                        <li><a href="/#">Portfolio</a></li>
+                        <li><a href="/#">Careers</a></li>
                         <li><a href="/#">Team</a></li>
-                        <li><a href="#/">Te-so Blog</a></li>
+                        <li><a href="/">Te-so Blog</a></li>
                         <li><a href="/#">Contact</a></li>
                     </ul>
                 </div>

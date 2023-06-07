@@ -1,7 +1,7 @@
 import React from 'react';
 import './Slider.css';
 import notebook from '../../../images/slider/solution/header.jpg';
-import workstation from '../../../images/about/business.jpg';
+import workstation from '../../../images/about/pexels-photo.jpeg';
 import leaders from '../../../images/slider/leaders.png';
 
 function Slider() {

@@ -2,8 +2,8 @@ import React from 'react';
 import './Services.css';
 import icon1 from '../../../images/services/icon/consulting.png';
 import icon2 from '../../../images/services/icon/integration.png';
-import icon3 from '../../../images/services/icon/blue-page-speed.png';
-import icon5 from '../../../images/services/icon/networks.png';
+import icon3 from '../../../images/services/icon/cloud.png';
+import icon5 from '../../../images/services/icon/networl.png';
 import icon4 from '../../../images/services/icon/service-shape.png';
 import icon6 from '../../../images/services/icon/cyber.png';
 import Service from './Service';
@@ -23,8 +23,8 @@ const servicesData =[
     },
     {
         id:3,
-        name: 'Page Speed Optimization & SEO',
-        description: 'We optimize website page speed by ensuring faster loading time and lower page size. We are also an expert with Google Accelerated Mobile Pages (AMP). We also work on SEO.',
+        name: 'Cloud Computing',
+        description: 'Leverage the power of the cloud to enhance scalability, agility, and cost-effectiveness. We assist in cloud adoption, migration, and management, helping you harness the benefits of cloud computing while ensuring data integrity, privacy, and compliance with industry standards.',
         icon: icon3
     },
     {

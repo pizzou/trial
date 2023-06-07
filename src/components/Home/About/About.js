@@ -12,7 +12,7 @@ function About() {
                         <div class="col-lg-6 pr-70 md-pr-15 md-mb-50">
                             <div class="sec-title4 mb-30">
                                 <span class="sub-title new pb-10">About Us</span>
-                                <h2 class="title pb-20">We are crafting unique IT & Technology Ideas</h2>
+                                <h2 class="title pb-20">We are crafting unique IT,Leadership & Technology Ideas</h2>
                                 <p class="margin-0"> TESO (The Elites and Solutions), a nationally leading company in IT solutions and leadership. At TESO, we are passionate about empowering businesses and individuals with innovative technology solutions and effective leadership strategies.</p>
                             </div>
                             <div id="accordion" class="accordion">
