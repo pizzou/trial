@@ -1,8 +1,8 @@
 import React from 'react';
 import './Leadership.css';
-import about1 from '../../images/about/leaders.jpeg'
-import about2 from '../../images/about/solutions/2.png'
-import about3 from '../../images/about/solutions/3.png'
+import about1 from '../../../images/about/leaders.jpeg'
+import about2 from '../../../images/about/solutions/2.png'
+import about3 from '../../../images/about/solutions/3.png'
 
 function Leadership() {
     return (

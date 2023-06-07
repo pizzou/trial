@@ -13,7 +13,7 @@ import Footer from './Footer/Footer';
 import Blogs from './Blogs/Blogs';
 import ProjectSummary from './ProjectSummary/ProjectSummary';
 import Projects from './Projects/Projects';
-import Leadership from '../Leadership/Leadership';
+import Leadership from './Leadership/Leadership';
 
 function Home() {
     return (

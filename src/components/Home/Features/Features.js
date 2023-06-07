@@ -21,13 +21,13 @@ const featureData = [
     },
     {
         id:3,
-        icon: icon2,
+        icon: icon1,
         title: 'Innovation and Excellence',
         description: 'We are committed to driving innovation and excellence in everything we do.         '
     },
     {
         id:4,
-        icon: icon1,
+        icon: icon2,
         title: 'Long-Term Partnerships',
         description: 'We value long-term relationships with our clients.'
     }
