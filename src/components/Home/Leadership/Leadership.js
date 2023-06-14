@@ -25,12 +25,8 @@ function Leadership() {
                                     <img src={about1} alt="Images"/>
                                 </div>
                                 <div class="rs-animations">
-                                    <div class="spinner dot">
-                                        <img class="scale" src={about2} alt="Images"/>
-                                    </div>
-                                    <div class="spinner ball">
-                                        <img class="dance2" src={about3} alt="Images"/>
-                                    </div>
+                                   
+                                   
                                     
                                 </div>
 

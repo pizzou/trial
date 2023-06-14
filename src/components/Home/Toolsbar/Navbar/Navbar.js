@@ -1,6 +1,5 @@
 import React from 'react';
 import './Navbar.css';
-import logo from '../../../../images/favicon.ico';
 
 function Navbar() {
     return (
@@ -27,7 +26,7 @@ function Navbar() {
                         <ul className="d-flex justify-content-around">
                             
                             <li>
-                                <a id="nav-expander" class="humburger nav-expander" href="#">
+                                <a id="nav-expander" class="humburger nav-expander" href="/">
                                     <span class="dot1"></span>
                                     <span class="dot2"></span>
                                     <span class="dot3"></span>

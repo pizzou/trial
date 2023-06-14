@@ -79,8 +79,8 @@ function Contact() {
                                         <div class="address-text">
                                             <span class="label">Mail Us</span>
                                             <p class="desc">
-                                                <a href="#">E: support@te-so.com</a><br/>
-                                                <a href="#">E: info@te-so.com</a>
+                                                <a href="/">E: support@te-so.com</a><br/>
+                                                <a href="/">E: info@te-so.com</a>
                                             </p>
                                         </div>
                                     </div>

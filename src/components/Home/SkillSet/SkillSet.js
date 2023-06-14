@@ -38,7 +38,7 @@ function SkillSet() {
                             <div class="col-lg-6 padding-0">
                                 <div class="video-wrap">
                                    <div class="video-btn primary text-center">
-                                       <a class="popup-videos" href="https://www.youtube.com/watch?v=YLN1Argi7ik">
+                                       <a class="popup-videos" href="https://www.youtube.com/watch?v=PeD35QUO_Vs">
                                            <i class="fa fa-play"></i>
                                        </a>
                                    </div>

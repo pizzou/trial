@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../../../images/logo.png'
+
 import sm1 from '../../../images/blog/small/1.jpg'
 import sm2 from '../../../images/blog/small/2.jpg'
 import sm3 from '../../../images/blog/small/3.jpg'
@@ -31,8 +31,8 @@ function Footer() {
           </h4>
                                 </div>
                                 <p class="desc"> We are a nationally recognized company specializing in providing cutting-edge IT solutions and leadership services. With our team of highly skilled professionals and a commitment to excellence.</p>
-                                <div class="btn-part">
-                                    <a class="readon" href="about.html">Discover More</a>
+                                <div class="">
+                                    <a class="" href="/about">Discover More</a>
                                 </div>
                             </div>
                         </div>
@@ -68,10 +68,10 @@ function Footer() {
                             <div class="footer-post">
                                 <div class="post-wrap mb-15">
                                     <div class="post-img">
-                                        <a href="blog-single.html"><img src={sm1} alt=""/></a>
+                                        <a href="/blogs"><img src={sm1} alt=""/></a>
                                     </div>
                                     <div class="post-desc">
-                                        <a href="blog-single.html">Covid-19 threatens the next generation of smartphones</a>
+                                        <a href="/blogs">Covid-19 threatens the next generation of smartphones</a>
                                         <div class="date-post">
                                             <i class="fa fa-calendar"></i>
                                             March 6, 2023
@@ -80,10 +80,10 @@ function Footer() {
                                 </div>
                                 <div class="post-wrap mb-15">
                                     <div class="post-img">
-                                        <a href="blog-single.html"><img src={sm2} alt=""/></a>
+                                        <a href="/blogs"><img src={sm2} alt=""/></a>
                                     </div>
                                     <div class="post-desc">
-                                        <a href="blog-single.html">incubator launch</a>
+                                        <a href="/blogs">incubator launch</a>
                                         <div class="date-post">
                                             <i class="fa fa-calendar"></i>
                                             April 15, 2023
@@ -92,10 +92,10 @@ function Footer() {
                                 </div>
                                 <div class="post-wrap">
                                     <div class="post-img">
-                                        <a href="blog-single.html"><img src={sm3} alt=""/></a>
+                                        <a href="/blogs"><img src={sm3} alt=""/></a>
                                     </div>
                                     <div class="post-desc">
-                                        <a href="blog-single.html">Leadership management traings.</a>
+                                        <a href="/blogs">Leadership management trainings.</a>
                                         <div class="date-post">
                                             <i class="fa fa-calendar"></i>
                                             March 10, 2023
@@ -115,10 +115,10 @@ function Footer() {
                         </div>
                         <div class="col-lg-6 col-md-4 text-right sm-text-center">
                             <ul class="footer-social">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                <li><a href="/"><i class="fa fa-facebook"></i></a></li>
+                                <li><a href="/"><i class="fa fa-twitter"></i></a></li>
+                                <li><a href="/"><i class="fa fa-instagram"></i></a></li>
+                                <li><a href="/"><i class="fa fa-linkedin"></i></a></li>
                             </ul>
                         </div>
                     </div>

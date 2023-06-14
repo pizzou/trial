@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css';
-import about1 from '../../../images/about/solutions/1.jpg'
+import about1 from '../../../images/about/depositphotos.jpg'
 import about2 from '../../../images/about/solutions/2.png'
 import about3 from '../../../images/about/solutions/3.png'
 
@@ -54,12 +54,12 @@ function About() {
                         <div class="col-lg-6">
                             <div class="about-content">
                                 <div class="images-part">
-                                    <img src={about1} alt="Images"/>
+                                    <img src={about1} alt="Images" className=' rounded-full'/>
                                 </div>
                                 <div class="rs-animations">
-                                    <div class="spinner dot">
+                                    {/* <div class="spinner dot">
                                         <img class="scale" src={about2} alt="Images"/>
-                                    </div>
+                                    </div> */}
                                     <div class="spinner ball">
                                         <img class="dance2" src={about3} alt="Images"/>
                                     </div>

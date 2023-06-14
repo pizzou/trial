@@ -13,15 +13,15 @@ function Toolsbar() {
                 <div className="col-md-8 toolsbar" style={{borderLeft:'1px solid grey', borderRight:'1px solid grey'}}>
                     <ul className="d-flex justify-content-between">
                         <li><i class="fa fa-phone"></i><a href="tel:+250787504052">(+250) 787504052</a></li>
-                        <li class="opening"> <i class="fa fa-clock-o"></i> Mon - Fri: 9:00 am - 06.00pm / Closed on Weekends</li>
+                        <li class="opening"> <i class="fa fa-clock-o"></i> Mon - Fri: 8:00 am - 06.00pm / Closed on Weekends</li>
                     </ul>
                 </div>
                 <div className="col-md-2 toolsbar">
                     <ul className="d-flex justify-content-around">
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                        <li><a href="/"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="/"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="/"><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="/"><i class="fa fa-linkedin"></i></a></li>
                     </ul>
                 </div>
             </div>

@@ -24,10 +24,10 @@ function Blogs() {
                        <div class="col-md-4 blog-item">
                            <div class="blog-wrap">
                                <div class="img-part">
-                                   <a href="#"><img src={blog1} alt=""/></a>
+                                   <a href="/blogs"><img src={blog1} alt=""/></a>
                                </div>
                                <div class="blog-content">
-                                   <a class="categories" href="blog-single.html">Digital Marketing</a>
+                                   {/* <a class="categories" href="blog-single.html">Digital Marketing</a> */}
                                    <h3 class="title"><a href="blog-single.html">Nurturing Fresh Graduates A Comprehensive Training Guide</a></h3>
                                    <div class="blog-meta">
                                        <div class="date">
@@ -40,11 +40,11 @@ function Blogs() {
                        <div class="col-md-4 blog-item">
                            <div class="blog-wrap">
                                <div class="img-part">
-                                   <a href="#"><img src={blog2} alt=""/></a>
+                                   <a href="/blogs"><img src={blog2} alt=""/></a>
                                </div>
                                <div class="blog-content">
-                                   <a class="categories" href="blog-single.html">Digital Marketing</a>
-                                   <h3 class="title"><a href="blog-single.html">Career Tips For Emerging Technology</a></h3>
+                                   {/* <a class="categories" href="/blogs">Digital Marketing</a> */}
+                                   <h3 class="title"><a href="/blogs">Career Tips For Emerging Technology</a></h3>
                                    <div class="blog-meta">
                                        <div class="date">
                                            <i class="fa fa-clock-o"></i> 18 March 2023
@@ -56,11 +56,11 @@ function Blogs() {
                        <div class="col-md-4 blog-item">
                            <div class="blog-wrap">
                                <div class="img-part">
-                                   <a href="#"><img src={blog3} alt=""/></a>
+                                   <a href="/blogs"><img src={blog3} alt=""/></a>
                                </div>
                                <div class="blog-content">
-                                   <a class="categories" href="blog-single.html">Digital Marketing</a>
-                                   <h3 class="title"><a href="blog-single.html">Leadership traing for Rising CEO</a></h3>
+                                   {/* <a class="categories" href="/blogs">Digital Marketing</a> */}
+                                   <h3 class="title"><a href="/blogs">Leadership traing for Rising CEO</a></h3>
                                    <div class="blog-meta">
                                        <div class="date">
                                            <i class="fa fa-clock-o"></i> 20 March 2023
