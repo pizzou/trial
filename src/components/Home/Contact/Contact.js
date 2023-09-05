@@ -55,7 +55,7 @@ function Contact() {
                                         <div class="address-text">
                                             <span class="label">RWANDA Office</span>
                                             <p class="desc">
-                                                KK 123ST, REMERA,<br/>
+                                            KN 3rd ROAD, KICUKIRO,<br/>
                                                 KIGALI.
                                             </p>
                                         </div>
@@ -67,8 +67,8 @@ function Contact() {
                                         <div class="address-text">
                                             <span class="label">Telephone</span>
                                             <p class="desc">
-                                                <a href="1235558888">p: (+250) 787 504052</a><br/>
-                                                <a href="1235558899">p: (+250) 787 504052</a>
+                                                <a href="1235558888">p: (+250) 788 301683</a><br/>
+                                                <a href="1235558899">p: (+250) 788 301683</a>
                                             </p>
                                         </div>
                                     </div>
@@ -91,7 +91,7 @@ function Contact() {
                                         <div class="address-text">
                                             <span class="label">RWANDA Office</span>
                                             <p class="desc">
-                                                123 Kisoment Street, REMERA,<br/>
+                                            Kn 3rd Road, Kicukiro,<br/>
                                                 KIGALI.
                                             </p>
                                         </div>

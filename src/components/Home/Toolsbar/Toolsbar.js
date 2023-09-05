@@ -12,7 +12,7 @@ function Toolsbar() {
                 </div>
                 <div className="col-md-8 toolsbar" style={{borderLeft:'1px solid grey', borderRight:'1px solid grey'}}>
                     <ul className="d-flex justify-content-between">
-                        <li><i class="fa fa-phone"></i><a href="tel:+250787504052">(+250) 787504052</a></li>
+                        <li><i class="fa fa-phone"></i><a href="tel:+250787504052">(+250) 788301683</a></li>
                         <li class="opening"> <i class="fa fa-clock-o"></i> Mon - Fri: 8:00 am - 06.00pm / Closed on Weekends</li>
                     </ul>
                 </div>

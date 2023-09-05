@@ -1,25 +1,57 @@
 .Navbar{
-    width:90%;
-    margin:auto;
-    padding: 35px 20px ;
+  width:100%;
+  margin:auto;
+  padding: 35px 20px ;
+  box-shadow: 0 0 10px #000;
+  background: rgba(0,0,0,0.5);
+  position: fixed;
+  height: 80px;
+  /* margin-top: -2rem; */
+  
 }
 .navbar-list>ul>li>a{
-    color:#ffffff;
-    font-size: 17px;
+  color:#ffffff;
+  font-size: 17px;
 }
 .navbar-list>ul>li>a:hover{
-    color:#392ddd;
+  color:#392ddd;
 }
 
-
+.Navbar .menu{
+  font-size: 2.5em;
+  display: none;
+}
 
 @media only screen and (max-width: 600px) {
-    .navbar-list{
+  .navbar-list{
+    display:none;
+    position: absolute;
+    background-color: teal;
+    right: 0;
+    left: 0;
+    text-align: center;
+    padding: 16px 0;
+  }
+
+  
+  
+  .menu{
+    display: block;
+  }
+}
+@media only screen and (max-width: 890px) {
+  .dots{
       display:none;
     }
-  }
-@media only screen and (max-width: 890px) {
-    .dots{
-        display:none;
-      }
-  }
+    .navbar-list{
+      display:none;
+      position: absolute;
+      background-color: teal;
+      right: 0;
+      left: 0;
+      text-align: center;
+      padding: 16px 0;
+    }
+  
+    
+}

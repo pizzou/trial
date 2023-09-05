@@ -4,6 +4,9 @@ import sm1 from '../../../images/blog/small/1.jpg'
 import sm2 from '../../../images/blog/small/2.jpg'
 import sm3 from '../../../images/blog/small/3.jpg'
 
+const date = new Date()
+const year = date.getFullYear()
+
 function Footer() {
     return (
         <div id="rs-footer" class="rs-footer style4">
@@ -41,12 +44,12 @@ function Footer() {
                             <ul class="address-widget pr-40">
                                 <li>
                                     <i class="flaticon-location"></i>
-                                    <div class="desc">123 Remera  kisimenti, kkkkk 2023, RWANDA</div>
+                                    <div class="desc">Kn 3rd Road, Kicukiro, RWANDA</div>
                                 </li>
                                 <li>
                                     <i class="flaticon-call"></i>
                                     <div class="desc">
-                                        <a href="tel:+8801739753105">(+250)787-504052</a>
+                                        <a href="tel:+8801739753105">(+250)788-301683</a>
                                     </div>
                                 </li>
                                 <li>
@@ -110,7 +113,9 @@ function Footer() {
                     <div class="row y-middle">
                         <div class="col-lg-6 col-md-8 sm-mb-21">
                             <div class="copyright">
-                                <p>© Copyright 2023 Te-so. All Rights Reserved.</p>
+
+                            <p>    &copy; {year} Te-so. All Rights Reserved.</p>
+                                
                             </div>
                         </div>
                         <div class="col-lg-6 col-md-4 text-right sm-text-center">

@@ -18,7 +18,7 @@ function Navbar() {
                         <li><a href="/#">Careers</a></li>
                         <li><a href="/#">Team</a></li>
                         <li><a href="/">Te-so Blog</a></li>
-                        <li><a href="/#">Contact</a></li>
+                        <li><a href="/#">Contact Us</a></li>
                     </ul>
                 </div>
                 <div className="col-md-1 toolsbar">
@@ -41,6 +41,11 @@ function Navbar() {
                         </ul>
                     </div>
                 </div>
+            </div>
+            <div className='menu'>
+                <label for="chk1">
+                    <i class="fa fa-bars"></i>
+                </label>
             </div>
         </div>
     )

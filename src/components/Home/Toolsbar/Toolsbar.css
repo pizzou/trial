@@ -1,3 +1,11 @@
+.toolbar-area{
+    background-image: url("/src/images/blog/style7/energy.jpg");
+    background-size: cover;
+    /* position: fixed;
+    width: 100%;
+    height: 80px; */
+}
+
 .toolsbar>ul>li{
     padding:10px;
     font-family: 'Roboto', sans-serif;
