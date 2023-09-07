@@ -1,8 +1,18 @@
 import React from 'react';
 import './Navbar.css';
 
+
+const dots = document.querySelector(".dots");
+const navMenu = document.querySelector(".nav-menu");
+
+dots.addEventListener("click", Navbar);
+
 function Navbar() {
+
+    dots.classList.toggle("active");
+    navMenu.classList.toggle("active")
     return (
+        
         <div className="Navbar">
             <div class="row d-flex align-items-center" style={{ margin: 'auto' }}>
                 <div className="col-md-4 toolsbar">
@@ -27,7 +37,7 @@ function Navbar() {
                             
                             <li>
                                 <a id="nav-expander" class="humburger nav-expander" href="/">
-                                    <span class="dot1"></span>
+                                    {/* <span class="dot1"></span>
                                     <span class="dot2"></span>
                                     <span class="dot3"></span>
                                     <span class="dot4"></span>
@@ -35,7 +45,8 @@ function Navbar() {
                                     <span class="dot6"></span>
                                     <span class="dot7"></span>
                                     <span class="dot8"></span>
-                                    <span class="dot9"></span>
+                                    <span class="dot9"></span> */}
+                                    <i class="fa fa-bars"></i>
                                 </a>
                             </li>
                         </ul>

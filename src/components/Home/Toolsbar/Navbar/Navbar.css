@@ -4,10 +4,17 @@
   padding: 35px 20px ;
   box-shadow: 0 0 10px #000;
   background: rgba(0,0,0,0.5);
-  position: fixed;
+  /* position: fixed; */
   height: 80px;
   /* margin-top: -2rem; */
   
+}
+.Navbar.active {
+  background: linear-gradient(
+    90deg,
+    rgb(248, 248, 250) 0%,
+    rgb(26, 23, 23) 100%
+  );
 }
 .navbar-list>ul>li>a{
   color:#ffffff;
@@ -17,6 +24,9 @@
   color:#392ddd;
 }
 
+.dots{
+  display: none;
+}
 .Navbar .menu{
   font-size: 2.5em;
   display: none;
@@ -41,7 +51,10 @@
 }
 @media only screen and (max-width: 890px) {
   .dots{
-      display:none;
+    display: block;
+    cursor: pointer;
+    margin-top: -3rem;
+    
     }
     .navbar-list{
       display:none;
