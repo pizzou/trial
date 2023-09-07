@@ -55,7 +55,7 @@ function Team() {
                             </div>
                         </div>
                         <div class="team-content text-center">
-                            <h4 class="person-name"><a href="team-single.html">Patrick Nshizirungu</a></h4>
+                            <h4 class="person-name"><a href="team-single.html">Patrick <br /> Nshizirungu</a></h4>
                             <span class="designation">Founder</span>
                             <ul class="team-social">
                                 <li><a href="team-single.html"><i class="fa fa-facebook"></i></a></li>
