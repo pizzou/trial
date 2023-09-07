@@ -2,9 +2,7 @@ import React from 'react';
 import banner1 from '../../../images/about/My project.jpg'
 import banner2 from '../../../images/about/My-project.jpg'
 import banner3 from '../../../images/about/My-project.jpg'
-import banner4 from '../../../images/projects/5.jpg'
-import banner5 from '../../../images/projects/5.jpg'
-import banner6 from '../../../images/projects/5.jpg'
+
 import './Projects.css';
 
 function Projects() {
@@ -58,11 +56,11 @@ function Projects() {
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-12 portfolio-wrap">
                             <div class="img-part">
-                                <img src={banner4} className="images" alt="" />
+                                {/* <img src={banner4} className="images" alt="" /> */}
                                 <div class="content-part">
                                     <div className="text">
                                         <i class="fa fa-link" style={{ fontSize: '30px' }}></i>
-                                        <h4 className="text-white">VIEW WEBSITE</h4>
+                                        {/* <h4 className="text-white">VIEW WEBSITE</h4> */}
                                     </div>
 
                                 </div>
@@ -71,11 +69,11 @@ function Projects() {
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-12 portfolio-wrap">
                             <div class="img-part">
-                                <img src={banner5} className="images" alt="" />
+                                {/* <img src={banner5} className="images" alt="" /> */}
                                 <div class="content-part">
                                     <div className="text">
                                         <i class="fa fa-link" style={{ fontSize: '30px' }}></i>
-                                        <h4 className="text-white">VIEW WEBSITE</h4>
+                                        {/* <h4 className="text-white">VIEW WEBSITE</h4> */}
                                     </div>
 
                                 </div>
@@ -84,11 +82,11 @@ function Projects() {
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-12 portfolio-wrap">
                             <div class="img-part">
-                                <img src={banner6} className="images" alt="" />
+                                {/* <img src={banner6} className="images" alt="" /> */}
                                 <div class="content-part">
                                     <div className="text">
                                         <i class="fa fa-link" style={{ fontSize: '30px' }}></i>
-                                        <h4 className="text-white">VIEW WEBSITE</h4>
+                                        {/* <h4 className="text-white">VIEW WEBSITE</h4> */}
                                     </div>
 
                                 </div>

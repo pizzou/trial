@@ -36,13 +36,30 @@ function SkillSet() {
                                </div>
                             </div>
                             <div class="col-lg-6 padding-0">
-                                <div class="video-wrap">
+                            <h1>Software Development</h1>
+                            <p>
+                            We use programming and design knowledge to build software that meets the needs of users. Typically, they will meet with a client who has a need for software to be developed, and then will build, test and deploy that software based on the specifications they have received
+                            </p>
+
+                            <h1>Cloud computing</h1>
+                            <p>
+                            We deliver a computing services over the internet, These services include servers, storage, databases, 
+networking, software, analytics, and intelligence. Cloud computing offers
+faster innovation, flexible resources, and economies of scale.
+                            </p>
+                            <h1>Web Development</h1>
+                            <p>
+                            Web developers build websites and ensure they perform reliably and efficiently. Learn more about this critical role in the tech industry and how to get started.
+                            </p>
+                                {/* <div class="video-wrap">
+                                
                                    <div class="video-btn primary text-center">
                                        <a class="popup-videos" href="https://www.youtube.com/watch?v=PeD35QUO_Vs">
                                            <i class="fa fa-play"></i>
                                        </a>
+                                       
                                    </div>
-                                </div>
+                                </div> */}
                             </div>
                         </div>
                     </div>

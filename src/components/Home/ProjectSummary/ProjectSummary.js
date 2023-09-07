@@ -9,7 +9,7 @@ function ProjectSummary() {
             </div>
             <div className="row p-5">
                 <div className="col-md-3 text-center">
-                    <h2 className="text-white">300+</h2>
+                    <h2 className="text-white">3+</h2>
                     <h4 className="text-white" style={{fontWeight:'400'}}>PROJECT COMPLETE</h4>
                 </div>
                 <div className="col-md-3 text-center">
@@ -17,11 +17,11 @@ function ProjectSummary() {
                     <h4 className="text-white" style={{fontWeight:'400'}}>POSITIVE FEEDBACK</h4>
                 </div>
                 <div className="col-md-3 text-center">
-                    <h2 className="text-white">5</h2>
+                    <h2 className="text-white">1</h2>
                     <h4 className="text-white" style={{fontWeight:'400'}}>YEAR OF ACTION</h4>
                 </div>
                 <div className="col-md-3 text-center">
-                    <h2 className="text-white">$40</h2>
+                    <h2 className="text-white">$20</h2>
                     <h4 className="text-white" style={{fontWeight:'400'}}>HOURLY RATE</h4>
                 </div>
             </div>
