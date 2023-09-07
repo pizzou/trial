@@ -2,15 +2,9 @@ import React from 'react';
 import './Navbar.css';
 
 
-const dots = document.querySelector(".dots");
-const navMenu = document.querySelector(".nav-menu");
 
-dots.addEventListener("click", Navbar);
 
 function Navbar() {
-
-    dots.classList.toggle("active");
-    navMenu.classList.toggle("active")
     return (
         
         <div className="Navbar">

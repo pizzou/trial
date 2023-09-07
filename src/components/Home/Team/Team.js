@@ -20,8 +20,8 @@ function Team() {
                             </div>
                         </div>
                         <div class="team-content text-center">
-                            <h4 class="person-name"><a href="team-single.html">Justin Murwanashyaka</a></h4>
-                            <span class="designation">President & CEO</span>
+                            <h4 class="person-name"><a href="team- single.html">Justin Murwanashyaka</a></h4>
+                            <span class="designation">CEO & Founder</span>
                             <ul class="team-social">
                                 <li><a href="team-single.html"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="team-single.html"><i class="fa fa-instagram"></i></a></li>
@@ -37,7 +37,7 @@ function Team() {
                             </div>
                         </div>
                         <div class="team-content text-center">
-                            <h4 class="person-name"><a href="team-single.html">Erick Rugwiza</a></h4>
+                            <h4 class="person-name"><a href="team-single.html">Erick <br /> Rugwiza</a></h4>
                             <span class="designation">Founder</span>
                             <ul class="team-social">
                                 <li><a href="team-single.html"><i class="fa fa-facebook"></i></a></li>
@@ -73,7 +73,7 @@ function Team() {
                         </div>
                         <div class="team-content text-center">
                             <h4 class="person-name"><a href="team-single.html">Roger Ruterahagusha</a></h4>
-                            <span class="designation">Web Developer</span>
+                            <span class="designation">Chairman & Founder</span>
                             <ul class="team-social">
                                 <li><a href="team-single.html"><i class="fa fa-facebook"></i></a></li>
                                 <li><a href="team-single.html"><i class="fa fa-instagram"></i></a></li>
