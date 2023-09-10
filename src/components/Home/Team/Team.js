@@ -1,8 +1,9 @@
 import React from 'react';
 import './Team.css';
-import ceo from '../../../images/team/seo/gwiza.jpg'
+import ceo from '../../../images/team/seo/justin.jpg'
 import developer from '../../../images/team/seo/gwiza.jpg'
-import marketer from '../../../images/team/seo/gwiza.jpg'
+import marketer from '../../../images/team/seo/patrick.jpg'
+import marketer1 from '../../../images/team/seo/roger.jpg'
 
 function Team() {
     return (
@@ -51,7 +52,7 @@ function Team() {
                     <div class="col-md-4 team-item-wrap p-5">
                         <div class="team-wrap">
                             <div class="image-inner">
-                                <a href="single-team.html"><img src={developer} alt="" /></a>
+                                <a href="single-team.html"><img src={marketer} alt="" /></a>
                             </div>
                         </div>
                         <div class="team-content text-center">
@@ -68,7 +69,7 @@ function Team() {
                     <div class="col-md-4 team-item-wrap p-5">
                         <div class="team-wrap">
                             <div class="image-inner">
-                                <a href="team-single.html"><img src={marketer} alt="" /></a>
+                                <a href="team-single.html"><img src={marketer1} alt="" /></a>
                             </div>
                         </div>
                         <div class="team-content text-center">
